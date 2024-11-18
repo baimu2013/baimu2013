@@ -3,6 +3,9 @@
 
 **baimu2013/baimu2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![MyLinkedIn](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/xiao-han-57b782170/)
+![MyPortfolio](https://img.shields.io/badge/My-Portfolio-blue) 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
